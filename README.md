@@ -5,7 +5,7 @@
 <h3 align="center">I'm undergraduate student in a government university in Sri Lanka.</h3>
 <img align="right" alt="Coding" src="coding.gif" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshanachathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="theekshanachathuranga" /> </p>
+<p align="left"> <img src= /> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Software engineering**
 
