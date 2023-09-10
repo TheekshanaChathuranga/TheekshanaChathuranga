@@ -3,7 +3,7 @@
   <img width="100%" height="60%" src="https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg">
 </div>
 <h3 align="center">I'm undergraduate student in a government university in Sri Lanka.</h3>
-
+<img align="right" alt="Coding" src="coding.gif" width="400">
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=theekshanachathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="theekshanachathuranga"/> </p>
 
