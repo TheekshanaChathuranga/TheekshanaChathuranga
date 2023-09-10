@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Theekshana Chathuranga</h1>
+<h1 align="center">Hi 👋, I'm Asith Indipa</h1>
 <div align="center">
   <img width="100%" height="60%" src="https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg">
 </div>
