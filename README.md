@@ -4,14 +4,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theekshana-chathuranga)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theekshanachathuranga/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://theekshanachathuranga.me/Portfolio_Page/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheekshanaChathuranga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theekshanacnb@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=1a73e8&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=TheekshanaChathuranga&style=flat-square&color=1a73e8&label=Profile+Views)
 
 </div>
 
@@ -85,75 +85,6 @@ Currently deepening my expertise through **WSO2's DevOps Engineering program**, 
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏨 Hotel Booking & Management System
-A full-stack hotel management platform with real-time features.
-- 🔐 JWT + RBAC secure authentication
-- 📡 Real-time bookings & notifications via **Socket.io**
-- 📊 Room, event & reservation management
-- 📧 Automated email workflows
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Tailwind` `JWT`
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/your-username)
-
-</td>
-<td width="50%">
-
-### 📚 Library Management System
-Full-stack LMS with advanced database automation.
-- 📖 Book management, member handling, issue/return
-- 💰 Automated fine calculation
-- ⚙️ Stored procedures, triggers & scheduled events
-- 🔐 JWT-based authentication
-
-**Stack:** `React` `Node.js` `Express` `MySQL` `Tailwind` `JWT`
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/your-username)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 Java Group Chat Application
-Real-time desktop chat app built with Java RMI.
-- 🔄 Real-time message broadcasting via RMI
-- 🔐 Secure auth + data persistence with Hibernate
-- 👑 Admin panel: manage rooms & users
-- 💾 MySQL-backed persistence
-
-**Stack:** `Java` `Swing` `RMI` `Hibernate` `MySQL` `Maven`
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/your-username)
-
-</td>
-<td width="50%">
-
-### 👗 Soft Clothes — E-Commerce Platform
-Full-stack online clothing store management system.
-- 🛒 Shopping cart & real-time order tracking
-- 👤 User authentication & admin dashboard
-- 📊 Analytics & reporting for business insights
-- 💳 Order & payment management
-
-**Stack:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Bootstrap` `AJAX` `jQuery`
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/your-username)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🏅 Certifications
 
 | Certification | Issuer |
@@ -170,12 +101,12 @@ Full-stack online clothing store management system.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api username=TheekshanaChathuranga&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaChathuranga&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheekshanaChathuranga&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -204,7 +135,7 @@ Full-stack online clothing store management system.
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img src="https://github.com/TheekshanaChathuranga/TheekshanaChathuranga/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
 </div>
 
 ---
