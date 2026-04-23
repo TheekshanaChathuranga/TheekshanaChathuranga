@@ -135,7 +135,7 @@ Currently deepening my expertise through **WSO2's DevOps Engineering program**, 
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/TheekshanaChathuranga/TheekshanaChathuranga/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/TheekshanaChathuranga/TheekshanaChathuranga/blob/main/github-contribution-grid-snake.svg" alt="snake game" />
 </div>
 
 ---
