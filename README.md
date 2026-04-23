@@ -101,7 +101,7 @@ Currently deepening my expertise through **WSO2's DevOps Engineering program**, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api username=TheekshanaChathuranga&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheekshanaChathuranga&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaChathuranga&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
